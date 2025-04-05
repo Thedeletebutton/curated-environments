@@ -1,0 +1,2 @@
+Build failed to start or timed out:
+[Errno 2] No such file or directory: 'npm'
